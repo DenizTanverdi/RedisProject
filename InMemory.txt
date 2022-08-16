@@ -7,3 +7,6 @@ Ciddi bir hýz farký vardýr.
 Uygulamanýn  farklý instancelarýnýndan data çektiðimde bu defa farklý datalar elde edebilirim peki ne yapabilirim ? 
 
 In-memory kullanýrsak farklý instancelarda oluþunca datalarý farklý olacak handikap 
+
+
+AddMemoryCache() ve IMemoryCahe interface ile 

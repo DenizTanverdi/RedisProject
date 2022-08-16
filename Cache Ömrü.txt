@@ -1,0 +1,7 @@
+Memory de ne kadar kalýcaðýnýzý belirleyebiliriz.
+
+Absolute time : 5 Dk verirsek ne olursa olsun memory den gider.
+
+Sliding Time : 5 Dk verirsek 5 Dk içinde eriþilirse ömrü 5 dk artar eðer eriþilirmezse o data silinir. Her zaman bayat dataya eriþebiliriz.
+
+Sliding time kullanýyorsak tek baþýna kullanmayalým.

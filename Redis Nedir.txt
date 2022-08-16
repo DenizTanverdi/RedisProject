@@ -1,0 +1,13 @@
+
+Redis (Remote Dictionary Server) nedir ? 
+
+Opensource
+
+datalarý veritabanýnda tutan 
+
+Veritipleri de vardýr.
+
+Datalarý memory tuttuðundan hýzlý bir repose döner
+
+Veri tutarlýlýðýnda önemli bir rol alýr .
+
