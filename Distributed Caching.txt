@@ -1,0 +1,9 @@
+Ayrý bir caching servisinde tutulur.
+
+Veri tutarsýzlýðýn önüne geçilmiþ olur.
+
+Uygulamanýn memory'sini deðil caching servisin memory sinde tutmuþ olur.
+
+Hýz konusunda In memory'e göre yavaþ.
+
+Önemli veri tutarlýðý hýzdan daha önemli olduðundan çok önemli deðildir.

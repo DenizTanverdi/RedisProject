@@ -1,0 +1,15 @@
+Caching Nedir ? 
+
+Çok sýk kullandýðýmýz datalarýn kaydedilme tekniðine caching denir.
+
+Neden peki?
+
+Web sitemizin daha iyi olmasý 
+
+Uygulamamýzýn perfonmasý 
+
+2 ye ayrýlýr
+
+In-memory Caching
+ 
+Distributed  Caching

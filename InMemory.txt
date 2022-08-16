@@ -1,0 +1,9 @@
+In Memory Caching Nedir ? 
+
+Uygulamayla ilgi datalarýn uygulamayý barýndýran web serverin ram'inde kaydetme iþlemine denir.
+
+Ciddi bir hýz farký vardýr.
+
+Uygulamanýn  farklý instancelarýnýndan data çektiðimde bu defa farklý datalar elde edebilirim peki ne yapabilirim ? 
+
+In-memory kullanýrsak farklý instancelarda oluþunca datalarý farklý olacak handikap 

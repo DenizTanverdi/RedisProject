@@ -1,0 +1,4 @@
+Startup dosyasý yok.
+Program cs de var app=builder.Build(); üst kýsmýna servislerimizi yazýyoruz.
+Configure içine yazdýklarýmýzý .net 6 da app altýna kýsmýna yazýyoruz.
+Sadeleþme ortamý oldu.

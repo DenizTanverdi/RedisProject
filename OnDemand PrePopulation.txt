@@ -1,0 +1,14 @@
+Biz hangi datayý cachinglicez ? 
+
+-Çok güncellenmeyen data
+
+-Çok sýk eriþebileceðimiz data olacak
+
+Peki datayý ne zaman caching yapýcaz? 
+
+Sadece talep olduðunda caching yapýyoruz. Önce datayý SQL den çekicez sonra cacheleyip ilgili uygulamaya response döneriz. On-Demand
+
+Uygulamayý ayaða kaldýrdýðýmýzda SQL 'den veriyi cekip cache leriz. PrePopulation
+
+
+Ýkisini de kullanabiliriz.
